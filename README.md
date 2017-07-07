@@ -1,0 +1,1 @@
+### 关于Activity的启动模式(android:launchMode)这个话题，网上有不计其数的文章阐述，其实这个配置说明在Android官方文档里[Activity的清单配置说明](https://developer.android.com/guide/topics/manifest/activity-element.html#lmode)里已经说的非常清晰了，但要弄清楚这个问题还需要知道一些别的概念，比如[任务和返回栈](https://developer.android.com/guide/components/tasks-and-back-stack.html)
