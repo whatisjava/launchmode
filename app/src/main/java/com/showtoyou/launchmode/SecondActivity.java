@@ -19,7 +19,7 @@ public class SecondActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         TextView textView = new TextView(this);
-        textView.setTextColor(Color.WHITE);
+        textView.setTextColor(Color.RED);
         textView.setTextSize(22.0f);
         textView.setText("Second Activity");
 

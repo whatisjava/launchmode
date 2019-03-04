@@ -19,7 +19,7 @@ public class FirstActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         TextView textView = new TextView(this);
-        textView.setTextColor(Color.WHITE);
+        textView.setTextColor(Color.BLACK);
         textView.setTextSize(22.0f);
         textView.setText("First Activity");
 

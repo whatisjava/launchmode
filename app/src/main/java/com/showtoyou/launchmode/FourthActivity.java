@@ -19,7 +19,7 @@ public class FourthActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         TextView textView = new TextView(this);
-        textView.setTextColor(Color.WHITE);
+        textView.setTextColor(Color.BLUE);
         textView.setTextSize(22.0f);
         textView.setText("Fourth Activity");
 
